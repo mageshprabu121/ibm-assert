@@ -1,0 +1,70 @@
+   body {
+    background-color: #ffffff;
+    color: #0f62fe;
+    font-family: Arial, sans-serif;
+    }
+  
+.questions-container {
+    text-align: center;
+    padding: 20px;
+}
+  
+.logo {
+    width: 150px;
+    margin-bottom: 20px;
+    animation: fadeIn 1s ease-in-out;
+}
+  
+.banner {
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 20px;
+    animation: fadeIn 2s ease-in-out;
+}
+  
+.question-card {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    animation: fadeInUp 1s ease-in-out;
+}
+  
+.navigation-buttons {
+    margin-top: 20px;
+}
+  
+.blue-button {
+    background-color: #0f62fe;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 5px;
+    transition: background-color 0.3s ease;
+}
+  
+.blue-button:hover {
+    background-color: #0043ce;
+}
+  
+.blue-button:disabled {
+    background-color: #a6c8ff;
+    cursor: not-allowed;
+}
+  
+.mic-controls {
+    margin: 20px 0;
+}
+  
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+  
+@keyframes fadeInUp {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}

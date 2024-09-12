@@ -1,0 +1,16 @@
+Here are 5 questions directly related to AI Engineer along with expected elaborate answers:
+
+* Question 1: What are the major sectors impacted by AI?
+Answer: AI has impacted various sectors, including healthcare, finance, education, transportation, and customer service. In healthcare, AI is used for diagnosis, personalized medicine, and medical imaging. In finance, AI is used for fraud detection, risk assessment, and portfolio management. In education, AI is used for personalized learning, intelligent tutoring systems, and natural language processing.
+
+* Question 2: How are machine learning and AI related?
+Answer: Machine learning is a subset of AI that involves training algorithms to learn from data and make predictions or decisions. AI is a broader field that encompasses machine learning, natural language processing, computer vision, and robotics. Machine learning is a key enabler of AI, as it allows systems to learn from data and improve their performance over time.
+
+* Question 3: What is the difference between AI, Machine Learning, and Deep Learning?
+Answer: AI refers to the broader field of research and development aimed at creating machines that can perform tasks that typically require human intelligence. Machine learning is a subset of AI that involves training algorithms to learn from data and make predictions or decisions. Deep learning is a subset of machine learning that involves the use of neural networks to analyze data.
+
+* Question 4: How would you design an AI system for enhancing customer support?
+Answer: To design an AI system for enhancing customer support, I would follow a human-centered approach that involves understanding customer needs, designing a conversational interface, and integrating machine learning algorithms to analyze customer data and provide personalized support. The system would also involve natural language processing to understand customer queries and sentiment analysis to detect customer emotions.
+
+* Question 5: What are some of the most important skills an AI engineer can have?
+Answer: An AI engineer should have a strong foundation in mathematics, computer science, and programming languages such as Python, Java, or C++. They should also have experience with machine learning frameworks such as TensorFlow, PyTorch, or Scikit-learn, and knowledge of data structures, algorithms, and software design patterns. Additionally, an AI engineer should have strong communication and collaboration skills, as well as the ability to work with cross-functional teams to deploy AI models into production.

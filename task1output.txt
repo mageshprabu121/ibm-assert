@@ -1,0 +1,16 @@
+Here are 5 questions directly related to AI Engineer along with expected elaborate answers:
+
+1. What are the major sectors impacted by AI?
+Answer: AI has impacted various sectors, including healthcare, finance, education, transportation, and customer service. In healthcare, AI is used for diagnosis, personalized medicine, and medical imaging. In finance, AI is used for fraud detection, risk assessment, and portfolio management. In education, AI is used for personalized learning, intelligent tutoring systems, and natural language processing.
+
+2. How would you design an AI system for enhancing customer support?
+Answer: To design an AI system for enhancing customer support, I would follow a customer-centric approach. First, I would analyze customer feedback and sentiment analysis to identify pain points. Then, I would develop a conversational AI interface using natural language processing (NLP) and machine learning algorithms. The AI system would be integrated with a knowledge base to provide accurate and relevant responses to customer queries. Additionally, I would implement a feedback mechanism to continuously improve the AI system.
+
+3. What are the different components of an expert system?
+Answer: An expert system consists of three main components: knowledge base, inference engine, and user interface. The knowledge base contains domain-specific knowledge and rules. The inference engine applies the rules to reason and draw conclusions. The user interface interacts with the user to provide inputs and receive outputs.
+
+4. How do you handle overfitting in machine learning models?
+Answer: Overfitting occurs when a machine learning model is too complex and performs well on the training data but poorly on new, unseen data. To handle overfitting, I would use techniques such as regularization, early stopping, data augmentation, and cross-validation. Regularization adds a penalty term to the loss function to discourage large weights. Early stopping stops training when the model's performance on the validation set starts to degrade. Data augmentation increases the size of the training dataset by applying transformations to the existing data. Cross-validation evaluates the model's performance on multiple subsets of the data.
+
+5. What are some of the most important skills an AI engineer can have?
+Answer: An AI engineer should possess a combination of technical and soft skills. Technical skills include proficiency in programming languages such as Python, R, or Julia, and experience with machine learning frameworks such as TensorFlow, PyTorch, or Scikit-learn. Soft skills include communication, collaboration, and problem-solving abilities
